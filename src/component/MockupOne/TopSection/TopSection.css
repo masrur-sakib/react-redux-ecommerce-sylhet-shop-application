@@ -1,0 +1,33 @@
+.top-section{
+    padding: 5%;
+    padding-top: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.top-section-tagline{
+    padding-bottom: 2%;
+    font-size: 40px;
+    color: grey;
+    text-align: center;
+}
+.top-section-image-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 50px 0px;
+}
+.top-section-image-section div{
+    margin: 10px 50px;
+    padding: 10px 20px;
+    border: 3px solid #80808027;
+}
+.top-section-image-section img{
+    width: 350px;
+    width: 150px;
+}
+.top-section a{
+    width: 200px;
+}

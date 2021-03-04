@@ -1,0 +1,28 @@
+.featured-products-section {
+  padding: 5%;
+  text-align: center;
+}
+.featured-products-section h1 {
+  padding-bottom: 30px;
+  font-size: 40px;
+  color: grey;
+}
+.carousel-item div {
+  padding: 0 10%;
+}
+.carousel-item img {
+  padding: 50px;
+  width: 100px;
+  height: 250px;
+  border: 3px solid #80808027;
+}
+.carousel-previous-next-icon {
+  fill: black;
+  font-size: 30px;
+  position: relative;
+  bottom: 50px;
+}
+.carousel-item p {
+  font-size: 18px;
+  font-weight: 500;
+}

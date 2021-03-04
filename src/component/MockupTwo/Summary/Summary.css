@@ -1,0 +1,17 @@
+.summary-section {
+  margin-bottom: 50px;
+}
+.coupon-code-input {
+  padding: 10px;
+  width: 100%;
+  border: none;
+}
+.coupon-code-input:focus {
+  outline: none;
+  border: 1px solid #80808034;
+  border-radius: 5px;
+}
+.coupon-code-input::placeholder {
+  font-weight: 700;
+  text-transform: uppercase;
+}

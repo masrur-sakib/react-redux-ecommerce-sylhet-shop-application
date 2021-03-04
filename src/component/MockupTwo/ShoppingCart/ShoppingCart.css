@@ -1,0 +1,33 @@
+.cart-products-section{
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    border-bottom: 1px dashed #8080807a;
+}
+.cart-products-section img{
+    height: 150px;
+    width: 200px;
+}
+.cart-product-name{
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.cart-product-price{
+    font-size: 22px;
+}
+.product-quantity-input{
+    padding: 10px;
+    height: 40px;
+    width: 100px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  padding: 5px;
+  height: 30px;
+  position: relative;
+  left: 10px;
+  opacity: 1;
+}
+.product-quantity-input:focus{
+    outline: none;
+}

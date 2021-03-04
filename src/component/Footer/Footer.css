@@ -1,0 +1,17 @@
+.footer{
+    text-align: center;
+    padding: 10px 0px;
+    border-top: 1px solid #80808075;
+}
+.footer p{
+    margin: 0px;
+}
+.footer a{
+    display: inline;
+    color: black;
+    line-height: 2.6;
+    border-right: 1px solid grey;
+}
+#footer-last-item{
+    border-right: none;
+}
