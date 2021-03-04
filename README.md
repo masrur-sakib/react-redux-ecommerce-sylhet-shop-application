@@ -26,5 +26,5 @@
         <h5>Bootstrap</h5>
     </li>
 </ul>
-<a target="_blank" href="https://masrursakib-react-redux-sylhet-shop-ecommerce.netlify.app/">Live Website Link</a>
-# react-redux-ecommerce-sylhet-shop-application
+<a target="_blank" href="https://masrursakib-react-redux-sylhet-shop-ecommerce-application.netlify.app/">Live Website Link</a>
+
